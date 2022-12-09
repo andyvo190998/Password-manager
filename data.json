@@ -1,0 +1,27 @@
+{
+   "123": {
+      "website": "123",
+      "email": "123",
+      "password": "123"
+   },
+   "amazon": {
+      "website": "amazon",
+      "email": "bao@gmail.com",
+      "password": "6McXi$8PySnZ*$(6T"
+   },
+   "facebook": {
+      "website": "facebook",
+      "email": "bao@gmail.com",
+      "password": ")YSwyA)y)1kL4O%"
+   },
+   "python": {
+      "website": "python",
+      "email": "baovohoang",
+      "password": "O!Bl2b$gCQx$4s83"
+   },
+   "tiki": {
+      "website": "tiki",
+      "email": "baovohoang1232342",
+      "password": "UlQX%C95(ZsS"
+   }
+}
